@@ -1,2 +1,3 @@
 This file is created for adding into the staging area and it content is different as hashing.
 Learning devops !!
+Making the commmits !
